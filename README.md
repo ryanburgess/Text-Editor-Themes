@@ -1,8 +1,11 @@
 Text Editor Themes
 =============
 
+Theme's I've created for Sublime Text editor.
+
+
 Candy Land
 --------------
 
-![alt tag](https://github.com/ryanburgess/Editor-Themes/blob/Editor-Themes/previews/CandyLand.png)
+![alt tag](https://raw.github.com/ryanburgess/Editor-Themes/Editor-Themes/previews/CandyLand.png)
 
